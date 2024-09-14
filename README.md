@@ -1,1 +1,2 @@
 # weather-app
+This project is a simple **Weather App** built using HTML, CSS, and JavaScript. It allows users to search for weather information by entering a city name. The app fetches real-time weather data from the OpenWeatherMap API, displaying the city's temperature, humidity, wind speed, and an appropriate weather icon based on the current conditions (e.g., clouds, clear, rain). The interface also provides error handling for invalid city names.
